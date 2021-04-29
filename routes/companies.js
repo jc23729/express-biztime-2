@@ -5,7 +5,7 @@ const db = require("../db");
 
 let router = new express.Router();
 
-//Get routes
+//ROUTES 
 
 router.get("/", async function (req, res, next) {
   try {
