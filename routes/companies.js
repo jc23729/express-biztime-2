@@ -22,6 +22,12 @@ router.get("/", async function (req, res, next) {
 });
 
 
+
+module.exports = router;
+
+
+
+
 // router.get('/', async (req, res, next) => {
 //     try {
 //         const results = await db.query(
@@ -32,5 +38,3 @@ router.get("/", async function (req, res, next) {
 //         res.status(500).send({ error: "internal server error" });
 //     }
 // })
-
-module.exports = router;
