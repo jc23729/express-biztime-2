@@ -1,0 +1,21 @@
+{
+  "name": "express-biztime-two",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jc23729/express-biztime-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jc23729/express-biztime-2/issues"
+  },
+  "homepage": "https://github.com/jc23729/express-biztime-2#readme"
+}
