@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/jc23729/express-biztime-2#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "slugify": "^1.5.0"
   }
 }
