@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/jc23729/express-biztime-2/issues"
   },
-  "homepage": "https://github.com/jc23729/express-biztime-2#readme"
+  "homepage": "https://github.com/jc23729/express-biztime-2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
