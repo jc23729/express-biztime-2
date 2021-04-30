@@ -7,6 +7,11 @@ let router = new express.Router();
 
 //ROUTES 
 
+
+//GET /companies
+
+
+// Returns list of companies, like {companies: [{code, name}, ...]}
 router.get("/", async function (req, res, next) {
   try {
     const result = await db.query(
